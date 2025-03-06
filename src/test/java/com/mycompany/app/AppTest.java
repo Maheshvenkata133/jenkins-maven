@@ -17,23 +17,27 @@ public class AppTest {
         assertTrue(true);
     }
 }
- @Test
+    @Test
     public void shouldAnswerWithTrue2() {
         assertTrue(true);
     }
-} @Test
+} 
+    @Test
     public void shouldAnswerWithTrue3() {
         assertTrue(true);
     }
-} @Test
+} 
+    @Test
     public void shouldAnswerWithTrue4() {
         assertTrue(true);
     }
-} @Test
+} 
+    @Test
     public void shouldAnswerWithTrue5() {
         assertTrue(true);
     }
-} @Test
+} 
+    @Test
     public void shouldAnswerWithTrue6() {
         assertTrue(true);
     }
